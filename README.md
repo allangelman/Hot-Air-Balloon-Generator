@@ -4,4 +4,4 @@ This is a tool made with Maya Python scripting to generate low-poly hot air ball
 
 [My tool in action!](https://www.youtube.com/watch?v=4QRtdWbHPH0)
 
-![hotairballoon](./Image/balloon.png)
+![hotairballoon](./image/balloon.png)
